@@ -32,11 +32,8 @@ body {
     font-size: 20px;
 }
 
-.header div ul {
-    list-style-type: none;
-}
-
 .header div ul li {
+    list-style-type: none;
     display: inline-block;
     margin-left: 25px;
 }
@@ -44,10 +41,6 @@ body {
 a {
     color: #ffffff;
     text-decoration: none;
-}
-
-p {
-    font-size: 16px;
 }
 
 /* Header Styles End */
@@ -60,11 +53,15 @@ p {
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
+    position: relative;
 }
 
 /* Hero Styles End */
 
 /* Content Styles Start */
+p {
+    font-size: 16px;
+}
 
 .float-left {
     float: left;

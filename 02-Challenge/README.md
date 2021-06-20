@@ -26,6 +26,7 @@ THEN I find semantic HTML elements
 
 WHEN I view the structure of the HTML elements
 THEN I find that the elements follow a logical structure independent of styling and positioning
+Done - Moved to sequential order
 
 WHEN I view the image elements
 THEN I find accessible alt attributes
@@ -33,6 +34,7 @@ DONE Added alt Attributes for images
 
 WHEN I view the heading attributes
 THEN they fall in sequential order
+Done - Moved to sequential order
 
 WHEN I view the title element
 THEN I find a concise, descriptive title
@@ -43,7 +45,7 @@ Technical Acceptance Criteria: 40%
 • Satisfies all of the preceding acceptance criteria plus the following code improvements:
 • Application's links all function correctly. [LINKS HAVE BEEN FIXED]
 • Application's CSS selectors and properties are consolidated and organized to follow semantic structure. 
-• Application's CSS file is properly commented.
+• Application's CSS file is properly commented. (commented)
 Deployment: 32%
 • Application deployed at live URL.
 • Application loads with no errors.
