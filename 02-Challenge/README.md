@@ -1,3 +1,9 @@
+# Developer Added Read Me
+This Website is part of my (George Ngo) initial portfolio as an assignment from my Coding Boot Academy class. This is the first website where I was tasked with refracting existing code. The task consisted of the below items.
+
+------------
+
+
 # 01 HTML CSS Git: Code Refactor
 
 One of the most common tasks for front-end and junior developers is to take existing code and refactor it to either meet a certain set of standards or implement a new technology. Web accessibility is an increasingly important consideration for businesses, ensuring that people with disabilities or socio-economic restrictions have access to their website, and helping them avoid litigation.
@@ -23,6 +29,7 @@ GIVEN a webpage meets accessibility standards
 
 WHEN I view the source code
 THEN I find semantic HTML elements
+Done: Added semantic and cleaned HTML Elements
 
 WHEN I view the structure of the HTML elements
 THEN I find that the elements follow a logical structure independent of styling and positioning
@@ -44,7 +51,7 @@ This challenge is graded based on the following criteria:
 Technical Acceptance Criteria: 40%
 • Satisfies all of the preceding acceptance criteria plus the following code improvements:
 • Application's links all function correctly. [LINKS HAVE BEEN FIXED]
-• Application's CSS selectors and properties are consolidated and organized to follow semantic structure. 
+• Application's CSS selectors and properties are consolidated and organized to follow semantic structure. (Condolidated and Cleaned)
 • Application's CSS file is properly commented. (commented)
 Deployment: 32%
 • Application deployed at live URL.
@@ -54,10 +61,10 @@ Deployment: 32%
 Application Quality: 15%
 • Application resembles (at least 90%) screenshots provided in challenge instructions.
 Repository Quality: 13%
-• Repository has a unique name.
-• Repository follows best practices for file structure and naming conventions.
-• Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
-• Repository contains multiple descriptive commit messages.
+• Repository has a unique name. (Unique name given)
+• Repository follows best practices for file structure and naming conventions. (named as per class best practices)
+• Repository follows best practices for class/id naming conventions, indentation, quality comments, etc. (named as per sections in code)
+• Repository contains multiple descriptive commit messages. (commited frequently)
 Repository contains quality README file with description, screenshot, and link to deployed application.
 ## Review
 
